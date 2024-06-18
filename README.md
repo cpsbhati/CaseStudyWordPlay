@@ -7,12 +7,12 @@ https://www.gutenberg.org/ebooks/3201
 https://www.gutenberg.org/files/3201/
 
 
-**Case Study **
+**Case Study**
 
 Think Python, 2nd edition by Allen B. Downey
 https://greenteapress.com/wp/think-python-2e/
 
-content borrowed as it is from https://en.wikibooks.org/wiki/Think_Python/Case_study:_word_play
+**content borrowed as it is from https://en.wikibooks.org/wiki/Think_Python/Case_study:_word_play**
 
 **Exercise 1**
 Write a program that reads 'words.txt' and prints only the words with more than 20 characters (not counting whitespace).
